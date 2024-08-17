@@ -1,1 +1,3 @@
 # Clinic-Appointment-Booking-System
+Project On CLINIC APPOINTMENT BOOKING SYSTEM Using HTML,
+ CSS, JAVASCRIPT, PHP, MYSQL
